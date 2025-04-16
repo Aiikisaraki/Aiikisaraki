@@ -2,7 +2,7 @@
  * @Author: Aii 如樱如月 morikawa@kimisui56.work
  * @Date: 2025-04-16 20:13:08
  * @LastEditors: Aii 如樱如月 morikawa@kimisui56.work
- * @LastEditTime: 2025-04-16 21:19:26
+ * @LastEditTime: 2025-04-16 21:22:22
  * @FilePath: \Aiikisaraki\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -24,7 +24,6 @@ ___
 
 ___
 <p align="center">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=aiikisaraki" align="left" alt="Stats" />
     <img alt="Github Profile Stats" src="https://github-readme-stats-rouge-ten-78.vercel.app/api?username=aiikisaraki">
 </p>
 
@@ -42,4 +41,3 @@ ___
     <a href="https://zh-hans.react.dev/"><img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/React/React.png?raw=true" style="height:30px; vertical-align: middle;">
     <a href="https://www.typescriptlang.org/zh/"><img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/TypeScript/TypeScript.png?raw=true" style="height:30px; vertical-align: middle;">
 </p>
-    
