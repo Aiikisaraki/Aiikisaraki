@@ -2,7 +2,7 @@
  * @Author: Aii 如樱如月 morikawa@kimisui56.work
  * @Date: 2025-04-16 20:13:08
  * @LastEditors: Aii 如樱如月 morikawa@kimisui56.work
- * @LastEditTime: 2025-04-16 20:58:52
+ * @LastEditTime: 2025-04-16 21:00:47
  * @FilePath: \Aiikisaraki\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -10,7 +10,7 @@
 ## Aii如樱如月(Aii_kisaraki)
 ___
 
-:tada:[Blog](http://blog.kimisui56.work/) | <img src="https://i0.hdslb.com/bfs/static/jinkela/long/images/favicon.ico" style="width:20px" /> [BiliBili](https://space.bilibili.com/11421332) | :tent: 想摸鱼的程序员一个~ | :railway_car: 爱好二刺螈
+:tada:[Blog](http://blog.kimisui56.work/) | <img src="https://i0.hdslb.com/bfs/static/jinkela/long/images/favicon.ico" style="width:16px" /> [BiliBili](https://space.bilibili.com/11421332) | :tent: 想摸鱼的程序员一个~ | :railway_car: 爱好二刺螈
 
 <p align="center" style="font-size:28px"><strong>我们的征途是星辰大海！！</strong></p>
 
