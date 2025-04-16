@@ -2,7 +2,7 @@
  * @Author: Aii 如樱如月 morikawa@kimisui56.work
  * @Date: 2025-04-16 20:13:08
  * @LastEditors: Aii 如樱如月 morikawa@kimisui56.work
- * @LastEditTime: 2025-04-16 21:00:47
+ * @LastEditTime: 2025-04-16 21:19:26
  * @FilePath: \Aiikisaraki\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -27,3 +27,19 @@ ___
     <img src="https://github-contribution-stats.vercel.app/api/?username=aiikisaraki" align="left" alt="Stats" />
     <img alt="Github Profile Stats" src="https://github-readme-stats-rouge-ten-78.vercel.app/api?username=aiikisaraki">
 </p>
+
+___
+<p align=center style="">
+    <strong>Powered by</strong>
+    <a href="https://hub.docker.com/"><img src="https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/main/Docker/DockerLogoShadowed.png?raw=true" style="height:30px; vertical-align: middle;">
+    <a href="https://github.com/"><img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/GitHub/GitHub.png" style="height:30px; vertical-align: middle;">
+    <a href="https://golang.google.cn/"><img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Go%20Lang/Golang.png?raw=true" style="height:30px; vertical-align: middle;">
+    <a href="https://cn.vuejs.org/"><img src="https://cdn.liteyuki.icu/gitea/vue.png" style="height:30px; vertical-align: middle;">
+    <a href="https://kubernetes.io/"><img src="https://cdn.liteyuki.icu/gitea/kubernetes.png" style="height:30px; vertical-align: middle;">
+    <a href="https://www.jetbrains.com/zh-cn/idea/"><img src="https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/main/IntelliJIDEA/IntellijLogo.png?raw=true" style="height:30px; vertical-align: middle;">
+    <a href="https://nodejs.org/zh-cn"><img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Node.js/Node.js.png?raw=true" style="height:30px; vertical-align: middle;">
+    <a href="https://code.visualstudio.com/"><img src="https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/main/VSCode/VSCode.png?raw=true" style="height:30px; vertical-align: middle;">
+    <a href="https://zh-hans.react.dev/"><img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/React/React.png?raw=true" style="height:30px; vertical-align: middle;">
+    <a href="https://www.typescriptlang.org/zh/"><img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/TypeScript/TypeScript.png?raw=true" style="height:30px; vertical-align: middle;">
+</p>
+    
